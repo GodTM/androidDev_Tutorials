@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial 4</string>
+
+    <string name="main_page_title"></string>
+    <string name="main_page_edit_text_course_code">Type the course code here </string>
+    <string name="main_page_title_number_of_students"> Type the number of students here </string>
+    <string name="main_page_title_level">Indicate undergrad or graduate here </string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string  name="display">Display</string>
+</resources>
