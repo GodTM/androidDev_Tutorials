@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">A0192770Y_eeshanJaiswal_tut2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings for the main Activity page -->
+    <string name="btn1">Fibonacci Numbers</string>
+    <string name="btn2">Intent With Data Passing</string>
+    <string name="btn3">Intent With Data Passing Using Bundle</string>
+    <string name="btn4">Intent With Request For Data Pass Back</string>
+
+    <!-- Strings for the Fibonacci Numbers Page -->
+    <string name="btn5">Fibonacci Numbers (Non Recursive)</string>
+    <string name="btn6">Fibonacci Numbers (Recursive)</string>
+    <string name="back">Back</string>
+    <string name="generate">Generate</string>
+    <string name="number">Enter a Number </string>
+    <!-- Strings for the Intent Data Passing -->
+
+    <!-- Strings for the data Passing using Bundle -->
+
+    <!-- Strings for the Request for Data Back -->
+
+</resources>

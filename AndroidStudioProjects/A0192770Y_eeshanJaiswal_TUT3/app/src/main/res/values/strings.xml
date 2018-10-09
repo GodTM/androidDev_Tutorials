@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A0192770Y_eeshanJaiswal_TUT3</string>
+    <!-- MAIN Activity -->
+    <string name="staticActBut">Static Fragment</string>
+    <string name="dynamicActBut">Dynamic Fragment</string>
+    <string name="activityInterface">Fragment with Interface </string>
+
+    <!-- back Buttons -->
+    <string name="backButtons">BACK(I AM DEFINED IN AN ACTIVITY) </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Hello I am Fragment-1</string>
+    <string name="fragement2">Hello I am Fragment-2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentInterfaceBackBut">Toast Message (I am defined inside a fragment)</string>
+    <string name="fragmentInterfaceTextView">Fragment with Interface</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

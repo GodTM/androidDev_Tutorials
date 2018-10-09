@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tut3_practice</string>
+
+    <string name="backButton">Back (I am defined in an Activity)</string>
+    <string name="staticButMain"> Static Activity</string>
+    <string name="dynButMain"> Dynamic Activity </string>
+    <string name="interfaceButMain"> Fragment With Interface </string>
+
+    <string name="fragment1text">Hello , I am Fragment -1</string>
+    <string name="fragment2text">Hello , I am Fragment -2 </string>
+    <string name="fragmentWithInterface">Fragment With Interface </string>
+    <string name="toastFragment">TOAST A MESSAGE (I AM DEFINED IN A FRAGMENT) </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

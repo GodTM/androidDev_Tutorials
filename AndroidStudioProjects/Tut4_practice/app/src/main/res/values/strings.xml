@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tut4_practice</string>
+
+    <!--Notification for inputs in the intro page -->
+    <string name="courseCode"> Enter the course Code </string>
+    <string name="numberOfStudents"> Enter the number of students </string>
+    <string name="level">Enter the level of Study (Undergrad / Postgrad)</string>
+
+    <!-- Buttons on the main Page -->
+    <string name="add"> Add </string>
+    <string name="delete"> Delete </string>
+    <string name="display"> Display </string>
+</resources>

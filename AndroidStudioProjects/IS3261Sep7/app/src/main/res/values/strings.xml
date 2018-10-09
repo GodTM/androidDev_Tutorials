@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IS3261 Sep7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment1">I am Fragment 1</string>
+    <string name="fragment2">I am Fragment 2</string>
+    <string name="fragment3">I am Fragment 3</string>
+    <string name="btn_in_fragment3">Button in Fragment 3</string>
+
+    <string name="go_to_static_fragment">Go To Static Fragment</string>
+    <string name="go_to_dynamic_fragment">Go To Dynamic Fragment</string>
+    <string name="go_to_fragment_with_interface">Go To Fragment With Interface</string>
+</resources>

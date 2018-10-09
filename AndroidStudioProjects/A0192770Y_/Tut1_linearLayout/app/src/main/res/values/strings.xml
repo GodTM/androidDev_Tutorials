@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tut1_linearLayout</string>
+    <string name="button1">But1</string>
+    <string name="button2">But2</string>
+    <string name="button3">But3</string>
+    <string name="button4">But4</string>
+    <string name="button5">But5</string>
+    <string name="button6">But6</string>
+    <string name="button7">But7</string>
+    <string name="button8">But8</string>
+
+</resources>

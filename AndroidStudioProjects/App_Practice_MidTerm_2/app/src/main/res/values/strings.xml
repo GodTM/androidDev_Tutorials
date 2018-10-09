@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App_Practice_MidTerm_2</string>
+
+    <!-- FIBO MAIN ACTIVITY PAGE -->
+    <string name="fibo_main">FIBONACCI NUMBERS</string>
+    <string name="intent_main"> INTENT WITH DATA PASSING </string>
+    <string name="intent_data_passing_main"> INTENT WITH DATA PASSING USING BUNDLE </string>
+    <string name="intent_data_pass_back_main">INTENT WITH REQUEST FOR DATA PASS BACK </string>
+
+
+    <!-- FIBO PAGE -->
+    <string name="fibo_non_recursive"> FIBONACCI NUMBERS (NON RECURSIVE)</string>
+    <string name="fibo_recursive"> FIBONACCI NUMBERS (RECURSIVE)</string>
+
+    <!-- MISC -->
+    <string name="back"> BACK </string>
+    <string name="generate">GENERATE </string>
+    <string name="numberOfTerms"> Enter the number of Terms </string>
+</resources>

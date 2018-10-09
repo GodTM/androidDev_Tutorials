@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IS3261 Sep 14</string>
+    <string name="name">input NAME here</string>
+    <string name="nric">input NRIC here</string>
+    <string name="age">input Age here</string>
+
+    <string name="add">Add Record</string>
+    <string name="delete">Delete Record</string>
+    <string name="display">Display Record</string>
+
+    <string name="go_to_sqlite">Go To SQLite</string>
+    <string name="go_to_shared_preferences">Go To SharedPreferences</string>
+
+    <string name="save">Save</string>
+    <string name="retrieve">Retrieve</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App_Practice_MidTerm_3</string>
+
+    <!-- -->
+    <string name="static_fragment">Static Fragment</string>
+    <string name="dynamic_fragment">Dynamic Fragment</string>
+    <string name="fragment_interface">Fragment With Interface</string>
+    <string name="back">Back (I am Defined in an Activity) </string>
+
+
+    <string name="fragment1">Hello , I am Fragment-1</string>
+    <string name="fragment2"> Hello, I am Fragment-2</string>
+
+</resources>
+
